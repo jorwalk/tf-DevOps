@@ -4,6 +4,11 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+*.backup
 
 # .tfvars files
 *.tfvars
+
+# plan files
+/plans/*
+backend.tf
